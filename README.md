@@ -1,6 +1,7 @@
 ### Oi! Me chamo Ariel Paiva.
 
 - Estudo no IFCE atualmente, cursando informática.
+- Hobbys: Futebol⚽; Jogos eletrônicos🎮; Estudos📚
 
 <div align="center">
   <a href="https://github.com/Ariel-Paiva">
